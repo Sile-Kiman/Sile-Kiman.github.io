@@ -39,7 +39,7 @@ a{
     box-sizing: border-box;
     width: 100%;
     border: 2px solid #dddddd;
-    background-image: url(/Portfolio/assets/images/criss-cross.png);
+    background-image: url(/Sile-Kiman.github.io/assets/images/criss-cross.png);
     padding-bottom: 15px;
 }
 
@@ -65,8 +65,13 @@ form{
     clear: both;
     border: 1px  #dddddd;
     background: #ffffff;
-    margin: 0 auto;
+    margin: 20px auto;
     width: 960px; 
+    box-sizing: border-box;
+    padding:15px;
+    
+    
+
      
     
 

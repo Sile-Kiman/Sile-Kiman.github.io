@@ -24,17 +24,17 @@ body{
     border-radius: 3px;
 }
 
+
 #link_wrapper{
     float: right;
-    margin-top: -30px; 
-    word-spacing: 15px;  
+    margin-top: -30px;
+    word-spacing: 15px;   
     
 }
 a{
     color: #777777;
     font-size: 16px;
     text-decoration: none;
-    
 }
 
 .box-set{
@@ -53,45 +53,51 @@ a{
     width: 960px; 
     padding:15px;
     box-sizing: border-box;
+    
 
 }
+
 #sub_text{
     color: #4aaaa5;
     margin: 20px;
     padding: 10px;
     padding-left: 0;
     font-family:  'Georgia', Times, 'Times New Roman', 'serif';
+
 }
+
 #line{
     border-bottom: 2px solid #dddddd;
-
 }
 
 
+.all_images {
+    position: relative;
 
-#P_img{
-    width: 250px;
-    float: left;
-    padding-right: 20px;
-    margin-top: 10px;
-    padding-top: 10px;
-    
+
+}
+img{
+    width: 300px;
+    height: 250px;
+    padding: 15px;   
 }
 
-.decoration{
-    text-decoration: underline;
-    font-weight: bold;
-    
-}
 
 p{
-    font-weight: 50px;
-    color: #777777;
-    line-height: 170%;
-    margin-top: 10px;
-    padding-top: 10px;
-    padding-left: 30px;
+    position: absolute;
+    top: 50%;
+    background:  #4aaaa5;
+    padding: 20px;
+    height: 40px;
+    width: 260px;
+    margin:20px;
+    left: -5px;
+    padding-bottom: -20px;
+    text-align: center;
+    color: white;
+    
 }
+
 
 .footer{
     clear: both;

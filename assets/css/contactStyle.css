@@ -26,7 +26,8 @@ body{
 
 #link_wrapper{
     float: right;
-    margin-top: -30px;   
+    margin-top: -30px;  
+    word-spacing: 15px;   
     
 }
 a{
@@ -69,11 +70,6 @@ form{
     width: 960px; 
     box-sizing: border-box;
     padding:15px;
-    
-    
-
-     
-    
 
 }
  

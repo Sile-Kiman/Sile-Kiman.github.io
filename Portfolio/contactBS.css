@@ -127,11 +127,12 @@ input[type=submit]{
 }
 
 .footer{
+    clear: both;
+    position: fixed;
     background: #666666;
-    padding: 20px;
+    padding: 10px;
     border-top: 8px solid #4aaaa5;
     text-align: center;
-    flex-shrink: 0;
-    margin-top: 50px;
-
+    bottom: 0px;
+    width: 100%;
 }

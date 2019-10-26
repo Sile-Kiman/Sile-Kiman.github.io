@@ -41,7 +41,7 @@ a{
     box-sizing: border-box;
     width: 100%;
     border: 2px solid #dddddd;
-    background-image: url(/Portfolio/assets/images/criss-cross.png);
+    background-image: url(/Sile-Kiman.github.io/assets/images/criss-cross.png);
     padding-bottom: 15px;
 }
 
@@ -90,10 +90,10 @@ img{
 
 p{
     position: absolute;
-    bottom: 20px;
+    bottom: 10px;
     background:  #4aaaa5;
     padding: 20px;
-    height: 40px;
+    height: 20px;
     width: 260px;
     margin:20px;
     left: -5px;
@@ -104,13 +104,13 @@ p{
 }
 
 
-
 .footer{
     clear: both;
+    position: fixed;
     background: #666666;
-    padding: 20px;
+    padding: 10px;
     border-top: 8px solid #4aaaa5;
     text-align: center;
-    margin-top: 50px;
-
+    bottom: 0px;
+    width: 100%;
 }
